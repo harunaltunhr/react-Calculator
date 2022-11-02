@@ -1,8 +1,10 @@
-{ "home": {
-  "name": "my-app",
-  "version": "0.1.0",
- "homepage": "https://harunaltunhr.github.io/react-calculator",
-  "private": true},
+{
+  "home": {
+    "name": "my-app",
+    "version": "0.1.0",
+    "homepage": "https://harunaltunhr.github.io/react-calculator",
+    "private": true
+  },
   "dependencies": {
     "coder": "^1.0.0",
     "nginx-conf": "^2.1.0",
@@ -30,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
